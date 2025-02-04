@@ -9,5 +9,5 @@ You will need a printer that can print larger than a 200mm x 200mm print area. T
 
 More information, such as materials and instructions, can be found [here](https://github.com/TechMav75/Hologram-Display-Stage/wiki)
 
-![Physical Unit](https://github.com/TechMav75/Hologram-Display-Stage/blob/main/Images/Physical%20Unit.png)
+![Physical Unit](https://github.com/TechMav75/Hologram-Display-Stage/blob/main/Images/Physical%20Unit.jpg)
 
